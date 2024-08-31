@@ -1,2 +1,3 @@
 # pixelvanilla.io
-Project with PixelVanilla server
+
+First personal project
